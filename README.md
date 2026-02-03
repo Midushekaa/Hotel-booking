@@ -1,0 +1,2 @@
+# Hotel-booking
+Hotel Booking System is a web application developed using HTML, CSS, JavaScript, and PHP that allows users to book hotel rooms online. It provides a user-friendly interface for selecting room types and dates, with JavaScript handling form validation and PHP processing and storing booking details in the database.
